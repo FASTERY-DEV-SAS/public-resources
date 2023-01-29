@@ -2,7 +2,7 @@
     {
       "id": "1",
       "category": "Web",
-      "description": "Landing Page RECARGALOYA.COM está diseñada para mostrar el catálogo de la marca, permitir el registro en la plataforma, ver las vistas y planes disponibles, y cuenta con un CEO potente que ayudará a posicionarla en los primeros resultados de búsqueda. Además, está totalmente adaptada para dispositivos móviles y computadoras.",
+      "description": "TEST Landing Page RECARGALOYA.COM está diseñada para mostrar el catálogo de la marca, permitir el registro en la plataforma, ver las vistas y planes disponibles, y cuenta con un CEO potente que ayudará a posicionarla en los primeros resultados de búsqueda. Además, está totalmente adaptada para dispositivos móviles y computadoras.",
       "nversion": "1.1",
       "picture": [
         "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloyalandingp.png",
@@ -22,7 +22,7 @@
       "id": "-NMQYYznDDueijaUCUMX",
       "category": "Web",
       "date": 1674425802610,
-      "description": "Landing Page RECARGALOYA.COM está diseñada para mostrar el catálogo de la marca, permitir el registro en la plataforma, ver las vistas y planes disponibles, y cuenta con un CEO potente que ayudará a posicionarla en los primeros resultados de búsqueda. Además, está totalmente adaptada para dispositivos móviles y computadoras.",
+      "description": "TEST Landing Page RECARGALOYA.COM está diseñada para mostrar el catálogo de la marca, permitir el registro en la plataforma, ver las vistas y planes disponibles, y cuenta con un CEO potente que ayudará a posicionarla en los primeros resultados de búsqueda. Además, está totalmente adaptada para dispositivos móviles y computadoras.",
       "nversion": "1.1",
       "picture": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloyalandingp.png",
       "projectlink": "https://www.recargaloya.com/",
@@ -42,7 +42,7 @@
       "date": 1674431981179,
       "description": ".",
       "nversion": "3.0",
-      "picture": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloya_sistema.png",
+      "picture": "TEST https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloya_sistema.png",
       "projectlink": "https://app.recargaloya.com",
       "status": "En Desarrollo",
       "technology": [
