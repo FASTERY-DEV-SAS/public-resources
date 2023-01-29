@@ -67,5 +67,50 @@
         "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
       ],
       "titleproject": "StoreAndGamersEC"
+    },
+    {
+      "id": "5",
+      "category": "Diseño Gráfico",
+      "description": "",
+      "picture": [
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_storeandgamers.png",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_storeandgamers.png"
+      ],
+      "status": "Completado",
+      "technology": [
+        "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black",
+        "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
+      ],
+      "titleproject": "Micheados"
+    },
+    {
+      "id": "6",
+      "category": "Diseño Gráfico",
+      "description": "",
+      "picture": [
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_storeandgamers.png",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_storeandgamers.png"
+      ],
+      "status": "Completado",
+      "technology": [
+        "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black",
+        "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
+      ],
+      "titleproject": "ConfesionesUPS"
+    },
+    {
+      "id": "7",
+      "category": "Diseño Gráfico",
+      "description": "",
+      "picture": [
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_storeandgamers.png",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_storeandgamers.png"
+      ],
+      "status": "Completado",
+      "technology": [
+        "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black",
+        "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
+      ],
+      "titleproject": "RECARGALOYA.COM"
     }
 ]
