@@ -17,42 +17,5 @@
       ],
       "titleproject": "TEST RECARGALOYA.COM - Landig Page",
       "vlist": "1.1 ( 01 Enero 2023 )\n*Añadir componentes de LoadImg\n*Añadir servicio pronostico deportivo\n1.0 ( 20 Diciembre 2022 )\n*Añadir categoría de servicios."
-    },
-    {
-      "id": "-NMQYYznDDueijaUCUMX",
-      "category": "Web",
-      "date": 1674425802610,
-      "description": "TEST Landing Page RECARGALOYA.COM está diseñada para mostrar el catálogo de la marca, permitir el registro en la plataforma, ver las vistas y planes disponibles, y cuenta con un CEO potente que ayudará a posicionarla en los primeros resultados de búsqueda. Además, está totalmente adaptada para dispositivos móviles y computadoras.",
-      "nversion": "1.1",
-      "picture": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloyalandingp.png",
-      "projectlink": "https://www.recargaloya.com/",
-      "status": "Completado",
-      "technology": [
-        "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D",
-        "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white",
-        "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      ],
-      "text": "",
-      "titleproject": "TEST RECARGALOYA.COM - Landig Page",
-      "vlist": "1.1 ( 01 Enero 2023 )\n*Añadir componentes de LoadImg\n*Añadir servicio pronostico deportivo\n1.0 ( 20 Diciembre 2022 )\n*Añadir categoría de servicios."
-    },
-    {
-      "id": "-NMQv96QHnA9raYHNxGy",
-      "category": "Web",
-      "date": 1674431981179,
-      "description": ".",
-      "nversion": "3.0",
-      "picture": "TEST https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloya_sistema.png",
-      "projectlink": "https://app.recargaloya.com",
-      "status": "En Desarrollo",
-      "technology": [
-        "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white",
-        "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white",
-        "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      ],
-      "termandcond": ".",
-      "text": "",
-      "titleproject": "TEST RECARGALOYA.COM - Sistema",
-      "vlist": "."
     }
-  ]
+]
