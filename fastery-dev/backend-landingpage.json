@@ -2,7 +2,7 @@
     {
       "id": "1",
       "category": "Web",
-      "description": "TEST Landing Page RECARGALOYA.COM está diseñada para mostrar el catálogo de la marca, permitir el registro en la plataforma, ver las vistas y planes disponibles, y cuenta con un CEO potente que ayudará a posicionarla en los primeros resultados de búsqueda. Además, está totalmente adaptada para dispositivos móviles y computadoras.",
+      "description": "Landing Page RECARGALOYA.COM está diseñada para mostrar el catálogo de la marca, permitir el registro en la plataforma,planes disponibles, y cuenta con un SEO potente que ayudará a posicionarla en los primeros resultados de búsqueda. Además, está totalmente adaptada para dispositivos móviles y computadoras.",
       "nversion": "1.1",
       "picture": [
         "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloyalandingp.png",
@@ -16,6 +16,6 @@
         "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
       ],
       "titleproject": "RECARGALOYA.COM - Landig Page",
-      "vlist": "1.1 ( 01 Enero 2023 )\n*Añadir componentes de LoadImg\n*Añadir servicio pronostico deportivo\n1.0 ( 20 Diciembre 2022 )\n*Añadir categoría de servicios."
+      "vlist": "1.1 ( 01 Enero 2023 )\n*-Añadir componentes de LoadImg\n-Añadir servicio pronostico deportivo\n1.0 ( 20 Diciembre 2022 )\n-Añadir categoría de servicios."
     }
 ]
