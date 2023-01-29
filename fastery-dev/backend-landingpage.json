@@ -43,7 +43,7 @@
         "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloya_sistema.png",
         "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloya_sistema.png"
       ],
-      "projectlink": "https://www.recargaloya.com/",
+      "projectlink": "https://www.app.recargaloya.com/",
       "status": "En desarrollo",
       "technology": [
         "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D",
@@ -52,5 +52,20 @@
       ],
       "titleproject": "RECARGALOYA.COM - Sistema",
       "vlist": "1.1 ( 01 Enero 2023 )\n*-Añadir componentes de LoadImg\n-Añadir servicio pronostico deportivo\n1.0 ( 20 Diciembre 2022 )\n-Añadir categoría de servicios."
+    },
+    {
+      "id": "4",
+      "category": "Diseño Gráfico",
+      "description": "",
+      "picture": [
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_storeandgamers.png",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_storeandgamers.png"
+      ],
+      "status": "Completado",
+      "technology": [
+        "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black",
+        "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
+      ],
+      "titleproject": "StoreAndGamersEC"
     }
 ]
