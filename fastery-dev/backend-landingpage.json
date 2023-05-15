@@ -25,5 +25,32 @@
           "icon": "https://www.imaget.com/wp-content/uploads/2021/09/icon-dark-adaptacion-contenido.svg"
         }
       ]
+    },
+    {
+      "id": "2",
+      "need": "Desarrollo eCommerce B2C con plataforma VTEX, implementación front-end responsive.1",
+      "picture": [
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloyalandingp.png",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/2_recargaloyalandingp.png"
+      ],
+      "projectlink": 
+      {
+        "link": "https://www.recargaloya.com/",
+        "linkname": "wwww.recargaloya.com1"
+      },
+      "status": "1",
+      "challenges": [
+        "Optimizar catálogo de productos",
+        "Desarrollo adicional para implementar mejoras en VTEX IO de acuerdo con necesidades del negocio",
+        "Diseño, desarrollo e implementación en remoto"
+      ],
+      "titleproject": "RECARGALOYA.COM1",
+      "logo": "https://app.recargaloya.com/icon.png",
+      "services": [
+        {
+          "label": "Desarrollo eCommerce1",
+          "icon": "https://www.imaget.com/wp-content/uploads/2021/09/icon-dark-adaptacion-contenido.svg"
+        }
+      ]
     }
 ]
