@@ -1,6 +1,7 @@
 [
     {
       "id": "1",
+      "description": "Rediseño de la experiencia de usuario para lograr conversión, mejorar findability y unificar las marcas Banco del Pacífico y PacifiCard en una sola web.",
       "need": "Desarrollo eCommerce B2C con plataforma VTEX, implementación front-end responsive.",
       "picture": [
         "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloyalandingp.png",
@@ -28,6 +29,7 @@
     },
     {
       "id": "2",
+      "description": "Rediseño de la experiencia de usuario para lograr conversión, mejorar findability y unificar las marcas Banco del Pacífico y PacifiCard en una sola web.",
       "need": "Desarrollo eCommerce B2C con plataforma VTEX, implementación front-end responsive.1",
       "picture": [
         "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloyalandingp.png",
