@@ -1,21 +1,28 @@
 [
     {
       "id": "1",
-      "category": "Web",
-      "description": "Landing Page RECARGALOYA.COM está diseñada para mostrar el catálogo de la marca, permitir el registro en la plataforma,planes disponibles, y cuenta con un SEO potente que ayudará a posicionarla en los primeros resultados de búsqueda. Además, está totalmente adaptada para dispositivos móviles y computadoras.",
-      "nversion": "1.1",
+      "need": "Desarrollo eCommerce B2C con plataforma VTEX, implementación front-end responsive.",
       "picture": [
         "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloyalandingp.png",
         "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/2_recargaloyalandingp.png"
       ],
-      "projectlink": "https://www.recargaloya.com/",
-      "status": "En desarrollo",
-      "technology": [
-        "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D",
-        "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white",
-        "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      "projectlink": 
+      {
+        "link": "https://www.recargaloya.com/",
+        "linkname": "wwww.recargaloya.com"
+      },
+      "status": "1",
+      "challenges": [
+        "Optimizar catálogo de productos",
+        "Desarrollo adicional para implementar mejoras en VTEX IO de acuerdo con necesidades del negocio",
+        "Diseño, desarrollo e implementación en remoto"
       ],
-      "titleproject": "RECARGALOYA.COM - Landig Page",
-      "vlist": "1.1 ( 01 Enero 2023 )\n*-Añadir componentes de LoadImg\n-Añadir servicio pronostico deportivo\n1.0 ( 20 Diciembre 2022 )\n-Añadir categoría de servicios."
+      "titleproject": "RECARGALOYA.COM",
+      "services": [
+        {
+          "label": "Desarrollo eCommerce",
+          "icon": "https://www.imaget.com/wp-content/uploads/2021/09/icon-dark-adaptacion-contenido.svg"
+        }
+      ]
     }
 ]
