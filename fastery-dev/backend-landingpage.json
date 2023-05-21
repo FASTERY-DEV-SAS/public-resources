@@ -2,7 +2,7 @@
     {
       "id": "1",
       "description": "Rediseño de la experiencia de usuario para lograr conversión, mejorar findability y unificar las marcas Banco del Pacífico y PacifiCard en una sola web.",
-      "need": "Desarrollo eCommerce B2C con plataforma VTEX, implementación front-end responsive.",
+      "need": "Desarrollo de un sistemas para distribuidores y usuarios, integracion de back-end con otras empresas, UI y UX para todo el sistema.",
       "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/1.png",
       "picture": [
         "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/2.png",
@@ -17,9 +17,9 @@
       },
       "status": "1",
       "challenges": [
-        "Optimizar catálogo de productos",
-        "Desarrollo adicional para implementar mejoras en VTEX IO de acuerdo con necesidades del negocio",
-        "Diseño, desarrollo e implementación en remoto"
+        "Optimizar el sistema para mejorar la experiencia de usuario",
+        "Desarrollo de sistema de transacciones en tiempo real",
+        "Diseño, desarrollo e implementación con otras empresas"
       ],
       "titleproject": "RECARGALOYA.COM",
       "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/logo.png",
