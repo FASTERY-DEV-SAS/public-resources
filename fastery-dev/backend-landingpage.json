@@ -35,6 +35,10 @@
         {
           "label": "Adaptacion de contenido",
           "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/responsive.png"
+        },
+        {
+          "label": "Integracion con servidores",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/conexion-servidores.png"
         }
       ]
     },
