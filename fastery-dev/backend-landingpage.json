@@ -31,6 +31,10 @@
         {
           "label": "Integración con Laravel",
           "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/laravel.png"
+        },
+        {
+          "label": "Adaptacion de contenido",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/responsive.png"
         }
       ]
     },
