@@ -116,5 +116,38 @@
           "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ideas.png"
         }
       ]
+    },
+    {
+      "id": "confesionesups",
+      "description": "",
+      "need": "",
+      "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/confesionesups/1.jpg",
+      "picture": [
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/confesionesups/2.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/confesionesups/3.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/confesionesups/4.jpg"
+      ],
+      "projectlink": 
+      {
+        "link": "https://instagram.com/confesiones__ups",
+        "linkname": "www.instagram.com/confesiones__ups"
+      },
+      "status": "1",
+      "challenges": [
+        "Desarrollo de ideas y propotipo para el imagotipo de la empresa.",
+        "Desarrollo y diseño personalizado para cada servicio dentro de la empresa."
+      ],
+      "titleproject": "Confesiones UPS",
+      "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/confesionesups/logo.png",
+      "services": [
+        {
+          "label": "Diseño personalizado",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ux-ui.png"
+        },
+        {
+          "label": "Reunión de ideas",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ideas.png"
+        }
+      ]
     }
 ]
