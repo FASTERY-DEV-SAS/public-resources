@@ -53,28 +53,51 @@
     {
       "id": "2",
       "description": "Rediseño de la experiencia de usuario para lograr conversión, mejorar findability y unificar las marcas Banco del Pacífico y PacifiCard en una sola web.",
-      "need": "Desarrollo eCommerce B2C con plataforma VTEX, implementación front-end responsive.1",
+      "need": "Desarrollo de un sistemas para distribuidores y usuarios, integracion de back-end con otras empresas, UI y UX para todo el sistema.",
+      "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/1.png",
       "picture": [
-        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/1_recargaloyalandingp.png",
-        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/2_recargaloyalandingp.png"
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/2.png",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/3.png",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/4.png",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/5.png"
       ],
       "projectlink": 
       {
         "link": "https://www.recargaloya.com/",
-        "linkname": "wwww.recargaloya.com1"
+        "linkname": "www.recargaloya.com"
       },
       "status": "1",
       "challenges": [
-        "Optimizar catálogo de productos",
-        "Desarrollo adicional para implementar mejoras en VTEX IO de acuerdo con necesidades del negocio",
-        "Diseño, desarrollo e implementación en remoto"
+        "Optimizar del sistema para mejorar la experiencia de usuario.",
+        "Desarrollo de sistema de transacciones en tiempo real.",
+        "Diseño, desarrollo e implementación con otras empresas."
       ],
-      "titleproject": "StoreAndGamers",
-      "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/storeandgamers/logo.png",
+      "titleproject": "FAMIMEDICA POPULAR",
+      "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/famimedica/logo.png",
       "services": [
         {
-          "label": "Desarrollo eCommerce1",
-          "icon": "https://www.imaget.com/wp-content/uploads/2021/09/icon-dark-adaptacion-contenido.svg"
+          "label": "Diseño UI/UX",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ux-ui.png"
+        },
+        {
+          "label": "Integración con Laravel",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/laravel.png"
+        },
+        {
+          "label": "Adaptacion de contenido",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/responsive.png"
+        },
+        {
+          "label": "Integración con servidores",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/conexion-servidores.png"
+        },
+        {
+          "label": "Modelo de negocio",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/mapa-c.png"
+        },
+        {
+          "label": "Integracion con Whatsapp",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/whatsapp.png"
         }
       ]
     }
