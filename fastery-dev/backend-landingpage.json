@@ -1,6 +1,6 @@
 [
     {
-      "id": "1",
+      "id": "recargaloya",
       "description": "Rediseño de la experiencia de usuario para lograr conversión, mejorar findability y unificar las marcas Banco del Pacífico y PacifiCard en una sola web.",
       "need": "Desarrollo de un sistemas para distribuidores y usuarios, integracion de back-end con otras empresas, UI y UX para todo el sistema.",
       "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/1.jpg",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "famimedicapopular",
       "description": "Desarrollo y diseño de imagotipo para la empresa, diseño personalizado para contenido de facebook.",
       "need": "Desarrollo y diseño de imagotipo para la empresa, diseño personalizado para contenido de facebook.",
       "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/famimedica/1.jpg",
