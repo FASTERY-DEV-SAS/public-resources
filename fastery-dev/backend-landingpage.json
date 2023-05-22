@@ -75,28 +75,8 @@
       "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/famimedica/logo.png",
       "services": [
         {
-          "label": "Diseño UI/UX",
+          "label": "Diseño personalizado",
           "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ux-ui.png"
-        },
-        {
-          "label": "Integración con Laravel",
-          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/laravel.png"
-        },
-        {
-          "label": "Adaptacion de contenido",
-          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/responsive.png"
-        },
-        {
-          "label": "Integración con servidores",
-          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/conexion-servidores.png"
-        },
-        {
-          "label": "Modelo de negocio",
-          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/mapa-c.png"
-        },
-        {
-          "label": "Integracion con Whatsapp",
-          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/whatsapp.png"
         }
       ]
     }
