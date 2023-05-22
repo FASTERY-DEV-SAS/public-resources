@@ -27,6 +27,10 @@
         {
           "label": "Diseño UI/UX",
           "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ux-ui.png"
+        },
+        {
+          "label": "Integración con Laravel",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/laravel.png"
         }
       ]
     },
