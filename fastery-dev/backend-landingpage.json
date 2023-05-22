@@ -43,6 +43,10 @@
         {
           "label": "Modelo de negocio",
           "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/mapa-c.png"
+        },
+        {
+          "label": "Integracion con Whatsapp",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/whatsapp.png"
         }
       ]
     },
