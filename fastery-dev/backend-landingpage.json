@@ -39,6 +39,10 @@
         {
           "label": "Integracion con servidores",
           "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/conexion-servidores.png"
+        },
+        {
+          "label": "Modelo de negocio",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/mapa-c.png"
         }
       ]
     },
