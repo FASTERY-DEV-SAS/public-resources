@@ -149,5 +149,38 @@
           "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ideas.png"
         }
       ]
+    },
+    {
+      "id": "mundifiesta",
+      "description": "",
+      "need": "",
+      "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/1.jpg",
+      "picture": [
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/2.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/3.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/4.jpg"
+      ],
+      "projectlink": 
+      {
+        "link": "https://www.facebook.com/MundiFiesta26",
+        "linkname": "www.facebook.com/MundiFiesta26"
+      },
+      "status": "1",
+      "challenges": [
+        "Desarrollo de ideas y propotipo para el imagotipo de la empresa.",
+        "Desarrollo y diseño personalizado para cada servicio dentro de la empresa."
+      ],
+      "titleproject": "Mundi Fiesta",
+      "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/logo.png",
+      "services": [
+        {
+          "label": "Diseño personalizado",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ux-ui.png"
+        },
+        {
+          "label": "Reunión de ideas",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ideas.png"
+        }
+      ]
     }
 ]
