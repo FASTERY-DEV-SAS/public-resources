@@ -82,5 +82,38 @@
           "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ideas.png"
         }
       ]
+    },
+    {
+      "id": "storeandgamers",
+      "description": "",
+      "need": "",
+      "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/storeandgamers/1.jpg",
+      "picture": [
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/storeandgamers/3.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/storeandgamers/2.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/storeandgamers/4.jpg"
+      ],
+      "projectlink": 
+      {
+        "link": "https://www.storeandgamers.com",
+        "linkname": "www.storeandgamers.com"
+      },
+      "status": "1",
+      "challenges": [
+        "Desarrollo de ideas y propotipo para el imagotipo de la empresa.",
+        "Desarrollo y diseño personalizado para cada especialidad dentro de la empresa."
+      ],
+      "titleproject": "FAMIMÉDICA POPULAR",
+      "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/famimedica/logo.png",
+      "services": [
+        {
+          "label": "Diseño personalizado",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ux-ui.png"
+        },
+        {
+          "label": "Reunión de ideas",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ideas.png"
+        }
+      ]
     }
 ]
