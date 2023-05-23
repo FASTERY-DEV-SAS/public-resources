@@ -184,7 +184,7 @@
       ]
     },
     {
-      "id": "mundifiesta",
+      "id": "docelibakery",
       "description": "",
       "need": "",
       "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/1.jpg",
@@ -203,7 +203,40 @@
         "Desarrollo de ideas y propotipo para el imagotipo de la empresa.",
         "Desarrollo y diseño personalizado para cada servicio dentro de la empresa."
       ],
-      "titleproject": "Mundi Fiesta",
+      "titleproject": "Doceli Bakery",
+      "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/logo.png",
+      "services": [
+        {
+          "label": "Diseño personalizado",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ux-ui.png"
+        },
+        {
+          "label": "Reunión de ideas",
+          "icon": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/service-icon/ideas.png"
+        }
+      ]
+    },
+    {
+      "id": "docelibakery",
+      "description": "",
+      "need": "",
+      "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/1.jpg",
+      "picture": [
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/2.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/3.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/4.jpg"
+      ],
+      "projectlink": 
+      {
+        "link": "https://www.instagram.com/doceli__bakery",
+        "linkname": "www.instagram.com/doceli__bakery"
+      },
+      "status": "1",
+      "challenges": [
+        "Desarrollo de ideas y propotipo para el imagotipo de la empresa.",
+        "Desarrollo y diseño personalizado para cada servicio dentro de la empresa."
+      ],
+      "titleproject": "Doceli Bakery",
       "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/logo.png",
       "services": [
         {
