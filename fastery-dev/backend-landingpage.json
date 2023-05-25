@@ -217,27 +217,27 @@
       ]
     },
     {
-      "id": "docelibakery",
+      "id": "neilapp",
       "description": "",
       "need": "",
-      "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/1.jpg",
+      "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/neilapp/1.jpg",
       "picture": [
-        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/2.jpg",
-        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/3.jpg",
-        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/4.jpg"
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/neilapp/2.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/neilapp/3.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/neilapp/4.jpg"
       ],
       "projectlink": 
       {
-        "link": "https://www.instagram.com/doceli__bakery",
-        "linkname": "www.instagram.com/doceli__bakery"
+        "link": "",
+        "linkname": ""
       },
       "status": "1",
       "challenges": [
         "Desarrollo de ideas y propotipo para el imagotipo de la empresa.",
         "Desarrollo y diseño personalizado para cada servicio dentro de la empresa."
       ],
-      "titleproject": "Doceli Bakery",
-      "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/logo.png",
+      "titleproject": "NeilApp",
+      "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/neilapp/logo.png",
       "services": [
         {
           "label": "Diseño personalizado",
