@@ -188,11 +188,11 @@
       "id": "docelibakery",
       "description": "",
       "need": "",
-      "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/1.jpg",
+      "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/docelibakery/1.jpg",
       "picture": [
-        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/2.jpg",
-        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/3.jpg",
-        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/4.jpg"
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/docelibakery/2.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/docelibakery/3.jpg",
+        "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/docelibakery/4.jpg"
       ],
       "projectlink": 
       {
@@ -205,7 +205,7 @@
         "Desarrollo y diseño personalizado para cada servicio dentro de la empresa."
       ],
       "titleproject": "Doceli Bakery",
-      "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/mundifiesta/logo.png",
+      "logo": "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/docelibakery/logo.png",
       "services": [
         {
           "label": "Diseño personalizado",
