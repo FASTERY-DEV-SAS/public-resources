@@ -1,9 +1,8 @@
 [
     {
       "id": "recargaloya",
-      "description": "Rediseño de la experiencia de usuario para lograr conversión, mejorar findability y unificar las marcas Banco del Pacífico y PacifiCard en una sola web.",
-      
-      "need": "Desarrollo de un sistemas para distribuidores y usuarios, integracion de back-end con otras empresas, UI y UX para todo el sistema.",
+      "description": "Empresa ecuatoriana líder en recargas y recaudación. Con más de 4 años de experiencia en el mercado, ofrecemos una amplia gama de servicios y soluciones tecnológicas adaptables y de alta calidad",
+      "need": "Desarrollo de sistemas para distribuidores y usuarios, integracion de back-end con otras empresas, UI y UX para todo el sistema.",
       "imghome":"https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/1.jpg",
       "picture": [
         "https://raw.githubusercontent.com/FASTERY-DEV-SAS/public-resources/main/fastery-dev/recargaloya/2.jpg",
@@ -19,7 +18,7 @@
       "status": "1",
       "challenges": [
         "Optimizar del sistema para mejorar la experiencia de usuario.",
-        "Desarrollo de sistema de transacciones en tiempo real.",
+        "Desarrollo del sistema de transacciones en tiempo real.",
         "Diseño, desarrollo e implementación con otras empresas."
       ],
       "titleproject": "RecargaloYa!",
